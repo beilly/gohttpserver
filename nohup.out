@@ -1,0 +1,143 @@
+2021/03/19 14:42:40 httpstaticserver.go:65: root path: /Users/chenyue/share/
+2021/03/19 14:42:40 main.go:207: listening on ":8887", local address http://10.115.62.237:8887
+2021/03/19 14:42:41 httpstaticserver.go:77: Started making search index
+2021/03/19 14:42:41 httpstaticserver.go:79: Completed search index in 4.537945ms
+2021/03/19 14:42:49 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:42:49 main.go:55: 127.0.0.1 - GET 200 /
+2021/03/19 14:42:49 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:42:49 main.go:55: 127.0.0.1 - GET 404 /-/user
+2021/03/19 14:42:49 main.go:55: 127.0.0.1 - GET 200 /-/json/?_=1616136169587
+2021/03/19 14:42:54 main.go:55: 127.0.0.1 - GET 200 /-/json/video?_=1616136169588
+2021/03/19 14:42:57 main.go:55: 127.0.0.1 - GET 200 /-/info/video/MiCre%CC%81dito-saas.zip
+2021/03/19 14:43:26 httpstaticserver.go:65: root path: /Users/chenyue/share/
+2021/03/19 14:43:26 main.go:207: listening on ":8887", local address http://10.115.62.237:8887
+2021/03/19 14:43:26 main.go:215: listen tcp :8887: bind: address already in use
+2021/03/19 14:43:30 httpstaticserver.go:110: GET video /Users/chenyue/share/video
+2021/03/19 14:43:30 main.go:55: 127.0.0.1 - GET 200 /video
+2021/03/19 14:43:30 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:43:30 main.go:55: 127.0.0.1 - GET 404 /-/user
+2021/03/19 14:43:30 main.go:55: 127.0.0.1 - GET 200 /-/json/video?_=1616136210827
+2021/03/19 14:43:31 httpstaticserver.go:110: GET video /Users/chenyue/share/video
+2021/03/19 14:43:31 main.go:55: 127.0.0.1 - GET 200 /video
+2021/03/19 14:43:31 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:43:31 main.go:55: 127.0.0.1 - GET 404 /-/user
+2021/03/19 14:43:31 main.go:55: 127.0.0.1 - GET 200 /-/json/video?_=1616136211619
+2021/03/19 14:43:31 httpstaticserver.go:110: GET video /Users/chenyue/share/video
+2021/03/19 14:43:31 main.go:55: 127.0.0.1 - GET 200 /video
+2021/03/19 14:43:31 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:43:31 main.go:55: 127.0.0.1 - GET 404 /-/user
+2021/03/19 14:43:31 main.go:55: 127.0.0.1 - GET 200 /-/json/video?_=1616136211852
+2021/03/19 14:43:32 httpstaticserver.go:110: GET video /Users/chenyue/share/video
+2021/03/19 14:43:32 main.go:55: 127.0.0.1 - GET 200 /video
+2021/03/19 14:43:32 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:43:32 main.go:55: 127.0.0.1 - GET 404 /-/user
+2021/03/19 14:43:32 main.go:55: 127.0.0.1 - GET 200 /-/json/video?_=1616136212034
+2021/03/19 14:43:36 main.go:55: 127.0.0.1 - GET 200 /-/json/?_=1616136212035
+2021/03/19 14:44:53 httpstaticserver.go:110: GET video/ /Users/chenyue/share/video
+2021/03/19 14:44:53 main.go:55: 10.115.51.43 - GET 200 /video/
+2021/03/19 14:44:54 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:44:54 main.go:55: 10.115.51.43 - GET 404 /-/user
+2021/03/19 14:44:54 main.go:55: 10.115.51.43 - GET 200 /-/json/video/?_=1616136294483
+2021/03/19 14:44:56 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136294484
+2021/03/19 14:45:02 main.go:55: 10.115.51.43 - GET 200 /-/json/video/?_=1616136294485
+2021/03/19 14:45:03 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136294486
+2021/03/19 14:45:25 httpstaticserver.go:110: GET video/ /Users/chenyue/share/video
+2021/03/19 14:45:25 main.go:55: 10.115.49.55 - GET 200 /video/
+2021/03/19 14:45:26 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:45:26 main.go:55: 10.115.49.55 - GET 404 /-/user
+2021/03/19 14:45:27 main.go:55: 10.115.49.55 - GET 200 /-/json/video/?_=1616136326496
+2021/03/19 14:45:32 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326497
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - POST 200 /
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - POST 200 /
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326498
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326499
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - POST 200 /
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - POST 200 /
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326500
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - POST 200 /
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326501
+2021/03/19 14:45:47 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326502
+2021/03/19 14:45:58 main.go:55: 10.115.49.55 - POST 200 /
+2021/03/19 14:45:58 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326503
+2021/03/19 14:46:27 main.go:55: 10.115.49.55 - GET 200 /-/json/video?_=1616136326504
+2021/03/19 14:46:31 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136326505
+2021/03/19 14:46:50 httpstaticserver.go:65: root path: /Users/chenyue/share/
+2021/03/19 14:46:50 main.go:207: listening on ":8887", local address http://10.115.62.237:8887
+2021/03/19 14:46:50 main.go:215: listen tcp :8887: bind: address already in use
+2021/03/19 14:46:55 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:46:55 main.go:55: 10.115.51.43 - GET 200 /
+2021/03/19 14:46:56 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:46:56 main.go:55: 10.115.51.43 - GET 404 /-/user
+2021/03/19 14:46:56 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136415969
+2021/03/19 14:47:01 main.go:55: 10.115.51.43 - GET 200 /-/info/android_icon_72.png
+2021/03/19 14:47:11 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136415970
+2021/03/19 14:47:22 main.go:55: 10.115.51.43 - GET 200 /-/json/video?_=1616136415971
+2021/03/19 14:47:24 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136415972
+2021/03/19 14:50:50 httpstaticserver.go:65: root path: /Users/chenyue/share/
+2021/03/19 14:50:50 main.go:207: listening on ":8887", local address http://10.115.62.237:8887
+2021/03/19 14:50:51 httpstaticserver.go:77: Started making search index
+2021/03/19 14:50:51 httpstaticserver.go:79: Completed search index in 3.369263ms
+2021/03/19 14:51:00 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:51:00 main.go:55: 10.115.51.43 - GET 200 /
+2021/03/19 14:51:01 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:51:01 main.go:55: 10.115.51.43 - GET 404 /-/user
+2021/03/19 14:51:01 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136661037
+2021/03/19 14:51:31 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:51:31 main.go:55: 10.115.49.55 - GET 200 /
+2021/03/19 14:51:31 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:51:31 main.go:55: 10.115.49.55 - GET 404 /-/user
+2021/03/19 14:51:31 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136691493
+2021/03/19 14:51:41 httpstaticserver.go:161: main.AccessConf{Upload:true, Delete:true, Users:[]main.UserControl(nil), AccessTables:[]main.AccessTable(nil)}
+2021/03/19 14:51:41 main.go:55: 10.115.49.55 - DELETE 200 /MiCre%CC%81dito-saas.zip
+2021/03/19 14:51:41 main.go:55: 10.115.49.55 - GET 200 /-/json/?_=1616136691494
+2021/03/19 14:52:40 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:52:40 main.go:55: 10.115.53.104 - GET 200 /
+2021/03/19 14:52:40 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:52:40 main.go:55: 10.115.53.104 - GET 200 /
+2021/03/19 14:52:40 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:52:40 main.go:55: 10.115.53.104 - GET 404 /-/user
+2021/03/19 14:52:40 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:52:40 main.go:55: 10.115.53.104 - GET 404 /-/user
+2021/03/19 14:52:40 main.go:55: 10.115.53.104 - GET 200 /-/json/?_=1616136559345
+2021/03/19 14:52:51 httpstaticserver.go:110: GET android_icon_72.png /Users/chenyue/share/android_icon_72.png
+2021/03/19 14:52:51 main.go:55: 10.115.53.104 - GET 200 /android_icon_72.png
+2021/03/19 14:52:53 main.go:55: 10.115.53.104 - GET 200 /-/json/?_=1616136572071
+2021/03/19 14:52:59 main.go:55: 10.115.53.104 - GET 200 /-/json/apk?_=1616136572072
+2021/03/19 14:53:04 main.go:55: 10.115.53.104 - GET 200 /-/json/apk/superpeso?_=1616136572073
+2021/03/19 14:53:08 main.go:55: 10.115.53.104 - GET 200 /-/json/apk?_=1616136572074
+2021/03/19 14:53:12 main.go:55: 10.115.53.104 - GET 200 /-/json/apk/superpeso?_=1616136572075
+2021/03/19 14:53:15 main.go:55: 10.115.53.104 - GET 200 /-/json/apk?_=1616136572076
+2021/03/19 14:53:18 main.go:55: 10.115.53.104 - GET 200 /-/json/?_=1616136572077
+2021/03/19 14:57:57 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616136661038
+2021/03/19 14:57:59 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:57:59 main.go:55: 10.115.51.43 - GET 200 /
+2021/03/19 14:57:59 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:57:59 main.go:55: 10.115.51.43 - GET 404 /-/user
+2021/03/19 14:58:00 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616137079720
+2021/03/19 14:58:00 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:58:00 main.go:55: 10.115.51.43 - GET 200 /
+2021/03/19 14:58:01 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:58:01 main.go:55: 10.115.51.43 - GET 404 /-/user
+2021/03/19 14:58:01 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616137080723
+2021/03/19 14:58:09 httpstaticserver.go:110: GET  /Users/chenyue/share
+2021/03/19 14:58:09 main.go:55: 10.115.51.43 - GET 200 /
+2021/03/19 14:58:09 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 14:58:09 main.go:55: 10.115.51.43 - GET 404 /-/user
+2021/03/19 14:58:09 main.go:55: 10.115.51.43 - GET 200 /-/json/?_=1616137089105
+2021/03/19 15:00:51 httpstaticserver.go:77: Started making search index
+2021/03/19 15:00:51 httpstaticserver.go:79: Completed search index in 6.821284ms
+2021/03/19 15:01:01 httpstaticserver.go:110: GET apk/ /Users/chenyue/share/apk
+2021/03/19 15:01:01 main.go:55: 10.115.60.200 - GET 200 /apk/
+2021/03/19 15:01:01 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 15:01:01 main.go:55: 10.115.60.200 - GET 404 /-/user
+2021/03/19 15:01:01 main.go:55: 10.115.60.200 - GET 200 /-/json/apk/?_=1616137261083
+2021/03/19 15:01:11 httpstaticserver.go:110: GET apk/ /Users/chenyue/share/apk
+2021/03/19 15:01:11 main.go:55: 10.115.60.200 - GET 200 /apk/
+2021/03/19 15:01:11 httpstaticserver.go:110: GET -/user /Users/chenyue/share/-/user
+2021/03/19 15:01:11 main.go:55: 10.115.60.200 - GET 404 /-/user
+2021/03/19 15:01:11 main.go:55: 10.115.60.200 - GET 200 /-/json/apk/?_=1616137270857
+2021/03/19 15:01:20 main.go:55: 10.115.60.200 - GET 200 /-/json/apk/micredit?_=1616137270858
+2021/03/19 15:01:21 httpstaticserver.go:110: GET apk/micredit/micredito-prod-v1.0.0.apk /Users/chenyue/share/apk/micredit/micredito-prod-v1.0.0.apk
+2021/03/19 15:01:25 main.go:55: 10.115.60.200 - GET 200 /apk/micredit/micredito-prod-v1.0.0.apk
+2021/03/19 15:10:51 httpstaticserver.go:77: Started making search index
+2021/03/19 15:10:51 httpstaticserver.go:79: Completed search index in 4.822914ms
